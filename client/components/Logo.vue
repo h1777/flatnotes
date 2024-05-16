@@ -1,31 +1,18 @@
 <template>
   <div>
 <svg
-
       width="36"
-
       height="36"
-
       viewBox="0 0 36 36"
-
       fill="none"
-
       xmlns="http://www.w3.org/2000/svg"
-
       class="part-icon"
-
     >
-
       <rect width="36" height="36" rx="4" fill="currentColor" />
-
       <path
-
         d="M6.793,28.195l0,-27l1.364,0l16.636,14.991l0,-14.991l3.009,0l0,27l-1.378,0l-16.622,-14.99l0,14.99l-3.009,0Z"
-
         fill="white"
-
       />
-
     </svg>
 
 <svg width="139" height="29" viewBox="0 0 149 29" version="1.1" xmlns="http://www.w3.org/2000/svg" class="part-name ml-2" :class="{ 'responsive-hide': responsive }" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
